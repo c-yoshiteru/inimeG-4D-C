@@ -35,3 +35,7 @@ def extract_c_value(somatic_c, flexibility, discrepancy):
 # c = extract_c_value(stability, flexibility=0.8, discrepancy=0.1)
 # print(f"Initial C-Value: {c}")
 
+
+
+SPDX-License-Identifier: MIT
+
