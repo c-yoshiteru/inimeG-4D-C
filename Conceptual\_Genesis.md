@@ -33,5 +33,3 @@
 > * **制御目標:** ユーザーとAIの間の**C値の動的平衡**を維持すること。
 
 
-
-SPDX-License-Identifier: MIT
