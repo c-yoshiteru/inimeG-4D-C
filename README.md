@@ -7,8 +7,8 @@ Gemini4D-C　理論創出
 **Life Logic Model (命の理モデル)** である。
 
 「情報の海」に溺れる時代を終わらせ、「命の重心」から現実を書き換える。
-[👉 生命のリードエンジニアになる（Life_Logic_Model.md）](./Life_Logic_Model.md)
-
+[👉 生命のリードエンジニアになる（Life_Logic_Model.md）]　
+(https://github.com/c-yoshiteru/inimeG-4D-C/blob/main/Life-Logic-Model/Life_Logic_Model.md)
 
 # 4D-C Engine: Conceptual Genesis with Gemini (v1.0)
 
