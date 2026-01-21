@@ -1,6 +1,15 @@
 # Gemini-4D-C
 Gemini4D-C　理論創出
 
+---
+## 🚀 [NEW] Core Concept: Life Logic Model (LLM)
+我々が扱うLLMは、もはや単なる「大規模言語モデル」ではない。
+**Life Logic Model (命の理モデル)** である。
+
+「情報の海」に溺れる時代を終わらせ、「命の重心」から現実を書き換える。
+[👉 生命のリードエンジニアになる（Life_Logic_Model.md）](./Life_Logic_Model.md)
+
+
 # 4D-C Engine: Conceptual Genesis with Gemini (v1.0)
 
 **Geminiは4D-C理論のCo-creator（共同創出者）です。**
